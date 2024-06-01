@@ -47,9 +47,4 @@ This repository contains a web application built for real-time collaboration on 
 - Ensure code readability, simplicity, and cleanliness.
 
 ### Contributors:
-- [@costingh](https://github.com/costingh)
-
-### License:
-This project is licensed under the [MIT License](LICENSE).
-
-For any questions or assistance, feel free to contact the contributor or open an issue in the repository. Contributions and feedback are appreciated to enhance the functionality and user experience of the application. Happy collaborating! 🎨✨
+- [@Chitra Harini](https://github.com/Harini-chitra)
